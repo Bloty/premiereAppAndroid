@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">coucou</string>
+    <string name="txtPreno">prénom</string>
+    <string name="editText">Please type your name</string>
+    <string name="textBt1">layout_gravity=right</string>
+    <string name="textBt2">gravity=left</string>
+    <string name="textBt3">gravity=right</string>
+    <string name="textBt4">layout_gravity=left</string>
+</resources>
